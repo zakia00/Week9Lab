@@ -31,7 +31,7 @@ I got total 1341 attacks as captured by nmap. The attacks used different protoco
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/zakia00/Week2Lab/blob/master/wk-9-assign.gif' title='Video Walkthrough of Week9 Assignment' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zakia00/Week9Lab/blob/master/wk-9-assign.gif' title='Video Walkthrough of Week9 Assignment' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
