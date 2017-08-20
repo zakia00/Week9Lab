@@ -27,6 +27,14 @@ Assignment:
 
 I got total 1341 attacks as captured by nmap. The attacks used different protocols including smbd, epmapper, mssqld, pcap. The ports used for attacks are also presented in the attack list. Honeypot detected the date and time of the attacks along with the source ip address. All the detailed captures are shown in the attached figure.
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/zakia00/Week2Lab/blob/master/wk-9-assign.gif' title='Video Walkthrough of Week9 Assignment' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## License
 
     Copyright [2017] [Kazi Zakia Sultana]
