@@ -17,6 +17,7 @@ Lab:
 7. [x]  Required: Milestone 6: Wi-Fi Hacking — Crack a Handshake
 8. [x]  Required: Milestone 7: Wi-Fi Hacking — Grab a Handshake
 
+The answers are written in wk9-lab.docx file.
 The following advanced user stories are optional:
 
 * [ ]  Bonus Milestone 8: Wi-Fi Hacking — Sniff Thy Neighbor's Packets
